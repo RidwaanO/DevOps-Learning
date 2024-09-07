@@ -70,3 +70,6 @@ The goal of **Bandit Level 4** is to find the password for Level 5. The password
 
 After obtaining the password, log out of the current session and prepare to log in to Bandit Level 5 using the new password.
 
+## Live Walkthrough
+
+![Bandit Level 4](bandit-level-4.gif)

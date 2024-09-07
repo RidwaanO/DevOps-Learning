@@ -72,3 +72,6 @@ The goal of **Bandit Level 5** is to find the password for Level 6. The password
 
 After obtaining the password, log out of the current session and prepare to log in to Bandit Level 6 using the new password.
 
+## Live Walkthrough
+
+![Bandit Level 5](bandit-level-5.gif)
