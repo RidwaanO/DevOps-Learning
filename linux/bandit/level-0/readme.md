@@ -42,3 +42,7 @@ The password for **Bandit Level 1** is stored in a file called `readme`. Follow 
     cat readme
     ```
 3. Copy the password that appears in the terminal. This password will be needed to log into Bandit Level 1.
+
+## Live Walkthrough
+
+![Bandit Level 0](bandit-level-0.gif)
