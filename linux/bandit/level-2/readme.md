@@ -57,3 +57,7 @@ The goal of **Bandit Level 2** is to find the password for Level 3. The password
 
 After obtaining the password, log out of the current session and prepare to log in to Bandit Level 3 using the new password.
 
+## Live Walkthrough
+
+![Bandit Level 2](bandit-level-2.gif)
+

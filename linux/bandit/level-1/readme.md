@@ -54,3 +54,7 @@ The goal of **Bandit Level 1** is to find the password for Level 2. The password
 
 After obtaining the password, log out of the current session and prepare to log in to Bandit Level 2 using the new password.
 
+## Live Walkthrough
+
+![Bandit Level 1](bandit-level-1.gif)
+
