@@ -60,3 +60,6 @@ The goal of **Bandit Level 7** is to find the password for Level 8. The password
 
 After obtaining the password, log out of the current session and prepare to log in to Bandit Level 8 using the new password.
 
+## Live Walkthrough
+
+![Bandit Level 7](bandit-level-7.gif)

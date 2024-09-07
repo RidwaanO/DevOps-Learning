@@ -56,3 +56,4 @@ The goal of **Bandit Level 8** is to find the password for Level 9. The password
 
 After obtaining the password, log out of the current session and prepare to log in to Bandit Level 9 using the new password.
 
+![Bandit Level 8](bandit-level-8.gif)
