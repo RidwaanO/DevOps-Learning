@@ -57,4 +57,6 @@ The goal of **Bandit Level 9** is to find the password for Level 10. The passwor
 
 After obtaining the password, log out of the current session and prepare to log in to Bandit Level 10 using the new password.
 
+## Live Walkthrough
+
 ![Bandit Level 9](bandit-level-9.gif)
