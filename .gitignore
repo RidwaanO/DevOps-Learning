@@ -21,6 +21,9 @@
 *.swp
 *.swm
 
+#Bash
+*.txt
+
 # Git
 *.patch
 *.diff
